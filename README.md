@@ -20,7 +20,7 @@
 - 🚕 WhatsApp Taxi Booking System
 - 🤖 WhatsApp Catalog Bot
 - 🧠 AI-powered automation tools
-- 
+ 
 ## Tech Stack
  Python • Django • PostgreSQL • Git • APIs
 
@@ -41,7 +41,7 @@ A real-world backend system that allows customers to book rides through WhatsApp
 - Grow as an AI/Backend Product Builder
 - Launch products used by real customers
 
-  ###  Currently Learning
+###  Currently Learning
 - Machine Learning
 - System Design
 - Scalable Backend Architecture
