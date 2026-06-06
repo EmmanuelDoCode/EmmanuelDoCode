@@ -4,7 +4,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-9cf?style=for-the-badge)](YOUR_PORTFOLIO_URL)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-adeyemo-255a28316?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](YOUR_GITHUB_URL)
 
 ---
 
@@ -64,9 +63,7 @@ A real-world backend system that allows customers to book rides through WhatsApp
 
 ---
 
-### Connect
-- GitHub: EmmanuelDoCode
-- 
+
 # 📫 Contact Me
 
 - 📧 Email: emmaculate766@gmail.com  
