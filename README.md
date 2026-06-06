@@ -24,14 +24,13 @@
 # ⚙️ Backend & Tools
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-
- Python • Django • PostgreSQL • Git • APIs
+![Git](https://img.shields.io/badge/Django-Fo5032?style=for-the-badge&logo=django&logoColor=white)  
+![APIs](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white)
 
 ---
 # 📌 Featured Project
 
-# 🚕 WhatsApp Taxi Booking System
+### 🚕 WhatsApp Taxi Booking System
 
 A real-world backend system that allows customers to book rides through WhatsApp, automatically assigns available drivers, and manages ride status from request to completion.
 
