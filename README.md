@@ -34,7 +34,7 @@
 
 A real-world backend system that allows customers to book rides through WhatsApp, automatically assigns available drivers, and manages ride status from request to completion.
 
-**Built with:** Python, Django RestApi 
+*Built with:* Python, Django, RestApi 
 ---
 ### 📌 Portfolio Website (coming soon)
 > Personal developer portfolio with Django backend
